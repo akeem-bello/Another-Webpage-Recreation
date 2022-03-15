@@ -1,0 +1,80 @@
+body{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+#section1{
+    padding: 10% 15%;
+    margin-top: 80px;
+    margin-bottom: 140px;
+    background-color: rgb(248, 250, 253);
+}
+
+#section2{
+    padding: 0 15%;
+    margin-bottom: 140px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-top: -60px;
+}
+
+#div1{
+    padding: 0 2%;
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+#section3{
+    padding: 0 15%;
+    margin-bottom: 0px;
+    background-color: rgb(248, 250, 253);
+}
+
+#div2{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-left: -725px;
+}
+
+#section4{
+    padding: 0 15%;
+    margin-bottom: 140px;
+    background-color: rgb(248, 250, 253);
+}
+
+#section5{
+    padding: 0 15%;
+    margin-bottom: 140px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#section6{
+    padding: 0 15%;
+    margin-bottom: 120px;
+    background-color: rgb(248, 250, 253);
+}
+
+#div3{
+    padding: 10% 0;
+}
+
+#section7{
+    padding: 0 15%;
+    margin-bottom: 140px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-top: -50px;
+}
+
+#section8{
+    padding: 0 15%;
+    margin-bottom: 120px;
+    background-color: rgb(248, 250, 253);
+    margin-top: -50px;
+    padding-bottom: 10%;
+}
+
+#div4{
+    padding: 10% 0;
+}
